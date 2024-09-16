@@ -45,6 +45,11 @@ $ forge snapshot
 $ anvil
 ```
 
+### install foundry-rs/forge-std
+```shell
+    forge install foundry-rs/forge-std
+```
+
 ### Deploy
 
 ```shell
